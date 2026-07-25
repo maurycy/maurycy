@@ -1,8 +1,10 @@
 Howdy!
 
-I'm **Maurycy Pawłowski-Wieroński**, a software engineer.
+I'm **Maurycy Pawłowski-Wieroński** /maˈwrɨ.t͡sɨ/, a software engineer.
 
 <!-- - My personal site is [maurycy.com](https://maurycy.com). -->
 <!-- - My personal Substack is [maurycy.substack.com](https://maurycy.substack.com). -->
 
-These days I enjoy the extremes: from low-level performance tuning to figuring out how to use agents.
+I enjoy the extremes: from low-level performance tuning to figuring out how to use agents.
+
+Lately: [CPython's sampling profiler](https://github.com/python/cpython/pulls?q=is%3Apr+author%3Amaurycy+is%3Amerged).
